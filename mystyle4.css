@@ -1,0 +1,6 @@
+table, td {
+    border: 2px solid;
+}
+tr:hover{
+    background-color: rgb(179, 236, 203);
+}
